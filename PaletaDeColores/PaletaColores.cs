@@ -30,7 +30,6 @@ namespace PaletaDeColores
             {
                 this.useColor = "" + colorDialog.Color.R + ',' + colorDialog.Color.G + ',' + colorDialog.Color.B;
                 SelectColor();
-                Console.WriteLine();
             }
         }
     }
